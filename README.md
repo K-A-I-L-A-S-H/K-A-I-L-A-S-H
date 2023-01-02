@@ -18,9 +18,6 @@ Backend developer proficient in Go, Python, Java & JS.
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=K-A-I-L-A-S-H&icon=9&color=3)](https://visitcount.itsvg.in)
 
