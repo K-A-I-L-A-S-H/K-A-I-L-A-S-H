@@ -1,5 +1,5 @@
 # 💫 About Me:
-Backend developer proficient in Go, Python, Java & JS.
+Backend developer proficient in TS/JS, Go, Python, and Java.
 
 
 ## 🌐 Socials:
