@@ -1,5 +1,4 @@
 # 💫 About Me:
-Hey there!
 👋 Hello, I'm a passionate and results-driven Full-Stack Developer with expertise in Golang, TypeScript, and Python. I'm constantly exploring new technologies and seeking innovative ways to deliver efficient and scalable solutions.
 
 
