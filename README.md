@@ -7,7 +7,6 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=K-A-I-L-A-S-H&theme=monokai&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=K-A-I-L-A-S-H&theme=monokai&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=K-A-I-L-A-S-H&theme=monokai&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
