@@ -1,8 +1,8 @@
 # 💫 About Me:
-👋 Hey there! I’m a full-stack adventurer 🧭 fluent in the mystical arts of Golang and TypeScript.
-By day, I’m taming APIs and optimizing queries; by night, I’m debugging everything (including my sleep schedule).
-When I’m not coding, I’m probably debugging life or wondering why semicolons even exist.
-Code, coffee, and the occasional “let’s rewrite this in Go” moment—welcome to my GitHub corner!
+👋 Hey there! I’m a full-stack adventurer 🧭 fluent in the mystical arts of Golang and TypeScript.<br>
+By day, I’m taming APIs and optimizing queries; by night, I’m debugging everything (including my sleep schedule).<br>
+When I’m not coding, I’m probably debugging life or wondering why semicolons even exist.<br>
+Code, coffee, and the occasional “let’s rewrite this in Go” moment—welcome to my GitHub corner!<br>
 
 
 ## 🌐 Socials:
